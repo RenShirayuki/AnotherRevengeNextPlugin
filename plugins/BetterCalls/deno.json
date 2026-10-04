@@ -1,0 +1,1 @@
+{"tasks":{"build":"deno run -A npm:esbuild-wasm src/index.tsx --bundle --outdir=dist --format=esm --external:revenge --external:revenge/* --external:react --external:react-native --jsx=transform --jsx-factory=React.createElement --jsx-fragment=React.Fragment"}}
