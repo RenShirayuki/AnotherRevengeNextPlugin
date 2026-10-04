@@ -2,8 +2,11 @@
   "format": 1,
   "id": "ren.better-calls",
   "name": "Better Calls",
-  "description": "Adds more options to calling, such as silent calls, call confirmations, and more",
+  "description": "Silent calls per user, and remembers your preferred audio output device.",
   "version": "1.0.0",
-  "author": "RenS",
-  "main": "dist/index.js"
+  "author": "Ren",
+  "main": "dist/index.js",
+  "dependencies": {
+    "revenge.api": ">=1.0.0"
+  }
 }
