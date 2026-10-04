@@ -14,8 +14,8 @@
       "versions": {
         "1.0.0": {
           "url": "https://renshirayuki.github.io/AnotherRevengeNextPlugin/ren.better-calls@1.0.0.zip",
-          "sha256": "a7aed251f6ce9db5920294fe2b15a1a0cead07ff9eafc1e4e0b55104b29381f8",
-          "size": 1687,
+          "sha256": "f0a45486df572b046445acd721aed75664f0388e7ebdcf44126b72c21345ea42",
+          "size": 1680,
           "dependencies": {
             "revenge.api": {
               "version": ">=1 <2"
