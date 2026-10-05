@@ -6,16 +6,16 @@
     "ren.better-calls": {
       "name": "Better Calls",
       "description": "Silent calls per user, and remembers your preferred audio output device.",
-      "author": "Ren",
+      "author": "Ren (port of BetterCalls)",
       "icon": "ic_notif_off",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "0.3.0"
       },
       "versions": {
-        "1.0.0": {
-          "url": "https://renshirayuki.github.io/AnotherRevengeNextPlugin/ren.better-calls@1.0.0.zip",
-          "sha256": "5d156db2bbda35a725158a7ece004440f3a0ce102bcb8b67d64f5f0075142e09",
-          "size": 1748,
+        "0.3.0": {
+          "url": "https://renshirayuki.github.io/RevengeNextPlugins/ren.better-calls@0.3.0.zip",
+          "sha256": "2ccb1ce85123aefd71f0c375cbb2d517293fbd7b78fd13a36e4690a48fad20ba",
+          "size": 4531,
           "dependencies": {
             "revenge.api": {
               "version": ">=1 <2"
